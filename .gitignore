@@ -1,0 +1,15 @@
+# Python
+ai-service/venv/
+ai-service/**/__pycache__/
+*.pyc
+
+# Node
+client/node_modules/
+server/node_modules/
+
+# Env files
+.env
+**/.env
+
+# Misc
+.DS_Store
